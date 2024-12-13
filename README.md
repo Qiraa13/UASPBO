@@ -3,7 +3,7 @@
 Anggota Kelompok
 1. Syauqi Rahmat (2317051084)
 2. Fajri
-3. Riski
+3. Muhammad Rizky Pratama (2317051008)
 
 # Tema Game
 
