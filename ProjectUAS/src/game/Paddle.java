@@ -37,8 +37,7 @@ public class Paddle extends Sprite {
 		x = Commons.WIDTH - imageWidth;
 		
 	}
-		
-		
+	
 	}
 	
 	void keyPressed(KeyEvent e) {
@@ -53,8 +52,6 @@ public class Paddle extends Sprite {
 			
 			dx = 1;
 		}
-		
-		
 	}
 	
 	
@@ -69,10 +66,7 @@ public class Paddle extends Sprite {
 		if (key == KeyEvent.VK_RIGHT) {
 			
 			dx = 0;
-		}
-		
-	
-		
+		}	
 	}
 	
 	
@@ -81,18 +75,4 @@ public class Paddle extends Sprite {
 		x = Commons.INIT_PADDLE_X;
 		y = Commons.INIT_PADDLE_Y;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
