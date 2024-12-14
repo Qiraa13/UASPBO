@@ -19,7 +19,7 @@ public class Breakout extends JFrame {
 		pack();
 	}
 
-	public static void main(String[] args) {
+	public static void main() {
 		EventQueue.invokeLater(() -> {
 			Breakout game = new Breakout();
 			game.setVisible(true);
