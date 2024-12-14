@@ -5,6 +5,5 @@ Anggota Kelompok
 2. Muhammad Fa'jri Ramadhani (2357051004)
 3. Muhammad Rizky Pratama (2317051008)
 
-# Tema Game
 
 
